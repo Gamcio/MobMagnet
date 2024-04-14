@@ -1,0 +1,22 @@
+mobData:
+
+  # ENTITY LIST: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html
+  # ATTRIBUTE LIST: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/attribute/Attribute.html
+
+  # SAMPLE:
+  # entity_name / MythicMob_name:
+  #   type: attribute_name
+  #   max-value: max_value_in_double
+
+  zombie:
+    type: GENERIC_ATTACK_DAMAGE
+    max-value: 10.0
+  cow:
+    type: GENERIC_MAX_HEALTH
+    max-value: 100.0
+  pig:
+    type: GENERIC_ARMOR
+    max-value: 20.0
+  horse:
+    type: GENERIC_MOVEMENT_SPEED
+    max-value: 0.7

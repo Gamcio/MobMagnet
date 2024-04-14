@@ -1,0 +1,22 @@
+name: MobMagnet
+version: '${project.version}'
+main: org.gamcio.mobmagnet.MobMagnet
+website: https://www.spigotmc.org/resources/mobmagnet.115912/
+api-version: '1.20'
+softdepend: [PlaceholderAPI]
+commands:
+  soulmenu:
+    description: Open menu
+    permission: mobmagnet.menu
+    permission-message: You dont have permission to run this command.
+  getsoul:
+    description: Give soul
+    permission: mobmagnet.getsoul
+    permission-message: You dont have permission to run this command.
+permissions:
+  mobmagnet.menu:
+    description: Allows use command /menu
+    default: true
+  mobmagnet.getsoul:
+    description: Allows use command /getsoul
+    default: op

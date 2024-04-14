@@ -1,0 +1,28 @@
+language:
+  plugin_prefix: '[MobMagnet]'
+  incorrect_entity_name: 'WARING! Incorrect entity name'
+  you_arent_player: You aren't player
+  item_atributtes: 'Atributtes'
+  item_soul_name: '''s soul'
+  item_year: 'Year Spirit Ring'
+  item_tier: 'TIER'
+
+  You_can_put_where_soul: 'You can put where soul'
+  Soul_inventory: 'Soul Inventory'
+  lock_slot: 'Slot is lock'
+  unlock_slot: 'Slot is unlock'
+  prize_level: 'Slot prize:'
+
+  # Item lore Attribute
+  GENERIC_ARMOR: 'Armor:'
+  GENERIC_ARMOR_TOUGHNESS: 'Armor toughness:'
+  GENERIC_ATTACK_DAMAGE: 'Attack damage:'
+  GENERIC_ATTACK_KNOCKBACK: 'Attack knockback:'
+  GENERIC_ATTACK_SPEED: 'Attack speed:'
+  GENERIC_FLYING_SPEED: 'Flying speed:'
+  GENERIC_FOLLOW_RANGE: 'Follow range:'
+  GENERIC_KNOCKBACK_RESISTANCE: 'Knockback resistance:'
+  GENERIC_LUCK: 'Luck:'
+  GENERIC_MAX_ABSORPTION: 'Max absorption:'
+  GENERIC_MAX_HEALTH: 'Max health:'
+  GENERIC_MOVEMENT_SPEED: 'Movement speed:'

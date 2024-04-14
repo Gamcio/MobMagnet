@@ -1,0 +1,59 @@
+# IF LIKE YOU THIS PLUGIN, YOU CAN THIS RATING PLUGIN
+
+Addons:
+  mythicMob: false
+
+
+item_settings:
+
+  # SOUL DROP CHANCE
+  # WRITE INT 0 - 100
+
+  item_chance_drop: 100
+
+Menu_Settings:
+
+  # SOUND LIST: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html
+  Sound:
+    Add_item: ENTITY_ENDER_EYE_DEATH
+    Remove_item: ENTITY_VILLAGER_NO
+    Buy_Slot: ENTITY_VILLAGER_TRADE
+    Cant_Buy: BLOCK_ANVIL_BREAK
+
+slot_settings:
+
+  # SLOT SETTINGS
+  # WRITE PRIZE IN DOUBLE LIKE 0.0, 1.0, 2.0, 3.0
+  # IF PRIZE IS SET 0.0 PLAYER HAVE DEFAULT UNLOCK SLOT
+
+  # TYPE LIST:
+  # LVL - PLAYER LEVEL
+  # ECO - NEED VAULT & CURRENCY PLUGIN
+
+  slot_0:
+    prize: 0.0
+    type: LVL
+  slot_1:
+    prize: 2.0
+    type: LVL
+  slot_2:
+    prize: 3.0
+    type: LVL
+  slot_3:
+    prize: 4.0
+    type: LVL
+  slot_4:
+    prize: 5.0
+    type: LVL
+  slot_5:
+    prize: 6.0
+    type: LVL
+  slot_6:
+    prize: 7.0
+    type: LVL
+  slot_7:
+    prize: 8.0
+    type: ECO
+  slot_8:
+    prize: 18.0
+    type: ECO

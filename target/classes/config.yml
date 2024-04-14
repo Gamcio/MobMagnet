@@ -1,0 +1,19 @@
+# IF LIKE YOU THIS PLUGIN, YOU CAN THIS RATING PLUGIN
+
+# ATTRIBUTES LIST:
+# DAMAGE - BOOST ATTACK DAMAGE
+# HEAL - MAX HEALTH
+
+# WRITE WHERE MOB LIKE:
+# mob_name: type_attributes
+
+mobData:
+  zombie: DAMAGE
+  cow: HEAL
+
+# WRITE WHERE MAX ATTRIBUTES FROM SOUL LIKE:
+# attributes_name: value_in_int
+
+argumentsData:
+  damage: 100
+  heal: 1000

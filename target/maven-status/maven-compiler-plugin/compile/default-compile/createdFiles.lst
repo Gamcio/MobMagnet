@@ -1,0 +1,5 @@
+org\gamcio\mobmagnet\particles\RingParticles.class
+org\gamcio\mobmagnet\addons\MythicLib.class
+org\gamcio\mobmagnet\addons\PlaceholderApi.class
+org\gamcio\mobmagnet\Event\InventoryEvent.class
+org\gamcio\mobmagnet\addons\MythicMob.class
